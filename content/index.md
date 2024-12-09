@@ -69,5 +69,29 @@ Here’s how the LogBook is organized:
 📂 Personal
 📂 Media
 
+---
 
-[[content/A-Logs/Daily Logs/2024-12-08|2024-12-08]]
+## 📂 Index of Example Files
+
+### Logs
+- **Daily Logs**  
+  - [[DL 2024-14-08]]
+
+- **Weekly Reflections**  
+  - [[MR 2024-12]]
+
+- **Monthly Reviews**  
+  - [[WR 2024-49]]
+
+### Projects
+- [[WebPage]]
+
+### Ideas
+- [[BlipFlow Concept]]
+
+### Research
+- [[DFA and NFA]]
+
+### Knowledge Base
+- [[Clase 1 - Verano]]
+

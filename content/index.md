@@ -10,16 +10,15 @@ For as long as I can remember, my friends have been saying:
 
 Well, here it is: **The LogBook**. A beautiful mix of sarcasm, ambition, and just enough organization to scare my past self.  
 
-Starting from **December 8, 2024**, this LogBook captures everything that defines me:  
-my **ambitions**, **struggles**, **philosophies**, and **dreams**.
+Starting from **December 8, 2024**.
 
 ---
 
 ## ✨ What the Hell Is This?  
-This LogBook is my declaration of war against procrastination. It’s where I:  
+This LogBook is my bluerprint of the everyday. It’s where I:  
 
 - Document my **daily, weekly, monthly, and yearly progress** toward world domination (or, at the very least, my personal goals).  
-- Keep track of **projects**, **random ideas**, and those *“Eureka!” moments* that would otherwise disappear into the void of my mind.  
+- Keep track of **projects**, **random ideas**, and those *“Eureka!” moments* that would otherwise disappear into the void.
 - Build the foundation of the **REVAN Project**, my life’s grand experiment to become the **best (and most powerful)** version of myself.  
 - Prove to myself (and my friends, and you reading this) that I can *actually* keep track of my progress without giving up in a week.  
 
@@ -50,7 +49,7 @@ If the LogBook is the serious sibling, the YouTube channel is the one who shows 
 At the core of everything is the **REVAN Project**, where I:  
 
 - Build the **best version of myself** (physically, mentally, financially, spiritually, and, yes, politically).  
-- Achieve **every goal I’ve ever dreamed of**, no matter how big or crazy.  
+- Achieve **every goal I dream of**, no matter how big or crazy.  
 - Gain the **power to do whatever I want, whenever I want**, without asking anyone’s permission.  
 
 ---

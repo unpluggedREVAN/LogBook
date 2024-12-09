@@ -1,12 +1,7 @@
 ---
-title: Welcome to this LogBook
+title: 🌍 Welcome to this LogBook
 ---
 
----
-title: Welcome to this LogBook
----
-
-# 🌍 REVAN's LogBook  
 *Because dominating the world starts with taking notes.*
 
 Welcome to **REVAN's LogBook**, the solution to a problem I’ve been dodging for years: documenting my shit.  

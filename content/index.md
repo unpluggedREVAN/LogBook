@@ -92,6 +92,5 @@ Here’s how the LogBook is organized:
 ### Research
 - [[DFA and NFA]]
 
-### Knowledge Base
-- [[Clase 1 - Verano]]
+
 

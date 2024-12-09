@@ -69,4 +69,5 @@ Here’s how the LogBook is organized:
 📂 Personal
 📂 Media
 
-[[Logs/Daily Logs/2024-12-08|2024-12-08]]
+
+[[content/A-Logs/Daily Logs/2024-12-08|2024-12-08]]

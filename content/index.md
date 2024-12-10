@@ -74,7 +74,7 @@ Here’s how the LogBook is organized:
 
 ### Logs
 - **Daily Logs**  
-  - [[DL 2024-14-08]]
+  - [[DL 2024-12-08]]
 
 - **Weekly Reflections**  
   - [[MR 2024-12]]

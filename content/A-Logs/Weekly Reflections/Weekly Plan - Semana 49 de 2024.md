@@ -91,14 +91,14 @@
 ---
 
 ## 📅 **Schedule**  
-| Day          | Focus Area                 | Key Tasks                                                                 |
-|--------------|----------------------------|---------------------------------------------------------------------------|
-| Tuesday      | Blockchain                | Read Alex Preukschat’s book and summarize ideas for the project.         |
-| Wednesday    | Cybersecurity             | Review last two Hawks Academy classes and document recent attacks.       |
-| Thursday     | Syndara                   | Define website structure, services, and branding.                        |
-| Friday       | Cybersecurity & Blockchain| Configure AWS WAF and begin drafting blockchain project proposal.        |
-| Saturday     | Syndara & Personal        | Finalize branding ideas and clean up GitHub repositories.                |
-| Sunday       | Cushion Day               | Wrap up unfinished tasks and reflect on the week.                        |
+| Day       | Focus Area                 | Key Tasks                                                          |
+| --------- | -------------------------- | ------------------------------------------------------------------ |
+| Tuesday   | Blockchain                 | Read Alex Preukschat’s book and summarize ideas for the project.   |
+| Wednesday | Cybersecurity              | Review last two Hawks Academy classes and document recent attacks. |
+| Thursday  | Syndara                    | Define website structure, services, and branding.                  |
+| Friday    | Cybersecurity & Blockchain | Configure AWS WAF and begin drafting blockchain project proposal.  |
+| Saturday  | Syndara & Personal         | Finalize branding ideas and clean up GitHub repositories.          |
+| Sunday    | Cushion Day                | Wrap up unfinished tasks and reflect on the week.                  |
 
 ---
 

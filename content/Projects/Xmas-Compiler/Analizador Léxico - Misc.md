@@ -31,3 +31,16 @@ Ejecuta la clase principal `Test` ubicada en el paquete `ParserLexer`. Los archi
 ```bash
 java -cp "lib/*;src/main/generated" ParserLexer.Test
 ```
+
+## 5. Crear el ejecutable de todo el proyecto (jar)
+
+```bash
+jar cvfe Xmas-Compiler.jar ParserLexer.Test -C src/main/generated . -C lib java-cup-11b-runtime.jar
+```
+
+## 6. Ejecutar momentáneamente el jar
+
+```bash
+java -cp "Xmas-Compiler.jar;lib/*" ParserLexer.Test
+```
+

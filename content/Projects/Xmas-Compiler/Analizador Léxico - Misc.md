@@ -24,12 +24,22 @@ Se compilan los archivos `.java` ubicados en `src/main/java/ParserLexer` y gener
 javac -cp "lib/*" -d src/main/generated src/main/java/ParserLexer/*.java
 ```
 
+### Nueva compilación:
+```bash
+javac -cp "lib/*" -d src/main/generated src/main/java/org/example/*.java src/main/java/ParserLexer/*.java
+```
+
 ## **4. Ejecutar el Programa de Prueba**
 
 Ejecuta la clase principal `Test` ubicada en el paquete `ParserLexer`. Los archivos `.class` están en `src/main/generated`.
 
 ```bash
 java -cp "lib/*;src/main/generated" ParserLexer.Test
+```
+
+### Nueva ejecución:
+```bash
+java -cp "lib/*;src/main/generated" org.example.Main
 ```
 
 ## 5. Crear el ejecutable de todo el proyecto (jar)
@@ -44,3 +54,8 @@ jar cvfe Xmas-Compiler.jar ParserLexer.Test -C src/main/generated . -C lib java-
 java -cp "Xmas-Compiler.jar;lib/*" ParserLexer.Test
 ```
 
+## 7. Ejecutar jar
+
+```bash
+java -jar Xmas-Compiler.jar
+```

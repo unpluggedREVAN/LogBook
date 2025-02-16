@@ -1,0 +1,13 @@
+## Prospectos de Clientes para Proyectos Inmobiliarios en Costa Rica
+
+Esta base de datos contiene un conjunto detallado de prospectos interesados en invertir en proyectos inmobiliarios de lujo en Costa Rica. Cada registro reúne información esencial que incluye datos personales (nombre, edad, residencia), detalles de contacto, estimaciones de ingresos anuales y fechas de visita previstas, junto con información profesional y de intereses personales. La riqueza de estos datos permite segmentar y perfilar de forma precisa a los potenciales clientes, facilitando el análisis y la toma de decisiones estratégicas en el marco del proyecto de inteligencia. La integración de esta base con el sistema de gestión de leads asegura que cada perfil sea evaluado en tiempo real, brindando una visión completa de las oportunidades de inversión en regiones clave como Jacó, donde la demanda y la actividad turística están en constante crecimiento.
+
+El propósito de esta base es optimizar el proceso de captación y seguimiento de prospectos, ofreciendo una herramienta robusta para identificar leads de alto valor y detectar tendencias en el mercado inmobiliario. La descripción detallada de cada registro —incluyendo experiencia profesional, nivel socioeconómico e intereses personales— se utiliza para alimentar modelos de análisis predictivo y segmentación, lo que permite a la agencia dirigir sus esfuerzos comerciales de manera más efectiva. En definitiva, esta base de datos es fundamental para transformar datos crudos en inteligencia accionable, alineándose perfectamente con la estrategia integral de SAG para expandir su cartera y maximizar el retorno sobre la inversión.
+
+---
+
+## Perfiles de Profesionales en Finanzas, Real Estate y Capital de Riesgo
+
+Esta base de datos reúne perfiles de profesionales y líderes en los sectores de servicios financieros, real estate y capital de riesgo a nivel internacional. Incluye información clave como nombres, cargos, empresas y datos de contacto, lo que facilita la identificación de potenciales colaboradores, inversores y socios estratégicos. La compilación de estos datos permite a la agencia ampliar su red de contactos y explorar oportunidades de inversión y alianzas comerciales que pueden potenciar sus proyectos inmobiliarios en Costa Rica.
+
+El valor de esta base radica en su capacidad para proporcionar una visión estratégica del ecosistema financiero y de inversión, permitiendo un análisis comparativo con las tendencias del mercado y facilitando la toma de decisiones en la búsqueda de socios clave. Al integrarse con el proyecto de inteligencia, estos perfiles contribuyen a identificar oportunidades de colaboración que refuercen el posicionamiento y crecimiento de SAG en el competitivo sector del real estate.
